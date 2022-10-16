@@ -294,15 +294,15 @@ alphabeta(node,DEPTH,-∞, +∞，AI)
 
 ### 命令行版本
 
-![test1](img\test1.png)
+![test1](img/test1.png)
 
-![test2](img\test2.png)
+![test2](img/test2.png)
 
-![test3](img\test3.png)
+![test3](img/test3.png)
 
 ### 图形化版本
 
-![](img\test4.png)
+![](img/test4.png)
 
 ## 运行
 
